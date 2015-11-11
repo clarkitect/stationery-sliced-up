@@ -3,6 +3,10 @@
 Paper Cut-Out texture pack (v 3.3) by SuperAlgae modified for color, without permission, by Clarkitect.
 for Minecraft 1.8
 
+# Installation #
+
+You can clone the entire repository, if you like, or use the zip archive included within it.  The link above, [to the zip archive within the repository](https://github.com/clarkitect/stationery-sliced-up/blob/master/paper_cutout_3_jcm.zip), will save you a few steps: it can be saved into your minecraft resource pack folder.
+
 #### SuperAlgae's preamble ####
 
 The original pack can be downloaded from:
